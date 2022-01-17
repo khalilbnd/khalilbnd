@@ -7,13 +7,13 @@ anyway from now i'm starting to do freelance demo so i can practice the syntax b
 
 <hr/>
 
-  • 💻  Computer Science Student (UMAB - FSEI)
-  • 🎮  Play video Games 
-  • 💎  Junior Developper
+  • 💻  Computer Science Student (UMAB - FSEI) <br/>
+  • 🎮  Play video Games <br/>
+  • 💎  Junior Developper <br/>
 
 <hr/>
     
-    <h1> 💻 Programing Language </h1>
+    <strong>💻 Programing Language</strong>
 
 <hr/>
 
