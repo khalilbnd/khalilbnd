@@ -17,9 +17,7 @@ anyway from now i'm starting to do freelance demo so i can practice the syntax b
 
 <hr/>
 
-  • 💻  Computer Science Student (UMAB - FSEI) <br/>
-  • 🎮  Play video Games <br/>
-  • 💎  Junior Developper <br/>
+ 
 
 ### 💻 Programing Languages
 <hr/>
@@ -42,6 +40,8 @@ anyway from now i'm starting to do freelance demo so i can practice the syntax b
 [![Mail Badge](https://img.shields.io/badge/-@khalilbnd.exe-e84393?style=flat&labelColor=e84392&logo=instagram&logoColor=white)](https://www.instagram.com/khalilbnd.exe/) <br/>
 [![Mail Badge](https://img.shields.io/badge/-@khalilbnd.exe-2374e1?style=flat&labelColor=2374e1&logo=facebook&logoColor=white)](https://www.facebook.com/kbeneddra/) <br/>
 [![Mail Badge](https://img.shields.io/badge/-beneddrakhalil@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:beneddrakhalil@gmail.com) <br/>
+
+<br/><br/><br/><br/><br/>![visitors](https://visitor-badge.glitch.me/badge?page_id=khalil227.khalil227)
 
 
 
