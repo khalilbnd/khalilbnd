@@ -13,7 +13,7 @@ anyway from now i'm starting to do freelance demo so i can practice the syntax b
 
 <hr/>
     
-    <strong>💻 Programing Language</strong>
+    <p>💻 Programing Language</p>
 
 <hr/>
 
