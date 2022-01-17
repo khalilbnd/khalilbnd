@@ -1,20 +1,25 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm a Junior Developper
-
-![Khalil GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil227&show_icons=true&theme=gotham)
-
-
 <hr/>
+
+
 
 Hey, My name's Mohamed El-Khalil Beneddra, 20 yo, Lives in Mostaganem, Algeria, and a Computer Science Student at Abd El-Hamid Ibn Badis University (3rd Year), And this my GitHub Account where you can find all my recent project, for now i'm intresting in web development espcially Full-Stack, I did create a gaming blog <a href="https://github.com/khalil227/GBOX_Gaming_Blog">GBOX</a>, Well at first i didn't except to do something like that but WOW! XD, i didn't believe that was my work hahahaha, 
-anyway from now i'm starting to do freelance demo so i can practice the syntax basics, and i'll share it with u
-
-<hr/>
+anyway from now i'm starting to do freelance demo so i can practice the syntax basics, and i'll share it with u<br/><br/>
 
   • 💻  Computer Science Student (UMAB - FSEI) <br/>
   • 🎮  Play video Games <br/>
   • 💎  Junior Developper <br/>
 
 <hr/>
+
+![Khalil GitHub stats](https://github-readme-stats.vercel.app/api?username=khalil227&show_icons=true&theme=gotham)
+
+
+<hr/>
+
+  • 💻  Computer Science Student (UMAB - FSEI) <br/>
+  • 🎮  Play video Games <br/>
+  • 💎  Junior Developper <br/>
 
 ### 💻 Programing Languages
 <hr/>
