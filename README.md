@@ -13,7 +13,7 @@ anyway from now i'm starting to do freelance demo so i can practice the syntax b
 
 <hr/>
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm a Junior Developper
+### 💻 Programing Languages
 <hr/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Css Logo" with="50" height="50"/> 
