@@ -34,7 +34,7 @@ anyway from now i'm starting to do freelance demo so i can practice the syntax b
 
 <hr/>
 
-### 📩 Contact Me ??
+### 📩 Contact Me 
 
 [![Twitter Badge](https://img.shields.io/badge/-@ElBeneddra-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ElBeneddra)](https://twitter.com/ElBeneddra) <br/>
 [![Mail Badge](https://img.shields.io/badge/-@khalilbnd.exe-e84393?style=flat&labelColor=e84392&logo=instagram&logoColor=white)](https://www.instagram.com/khalilbnd.exe/) <br/>
