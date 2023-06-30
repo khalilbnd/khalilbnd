@@ -68,16 +68,16 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=khalil227&theme=react&border=61dafb&hide_border=true" alt="khalil227" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=khalilbnd&theme=react&border=61dafb&hide_border=true" alt="khalilbnd" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=khalil227&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=khalilbnd&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalil227&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilbnd&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
@@ -89,22 +89,22 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/khalil227/bmi-calculator" title="BMI Calculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalil227&repo=bmi-calculator&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/khalil227/3-Column-preview-card" title="3-Column-preview-card"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalil227&repo=3-Column-preview-card&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/khalilbnd/bmi-calculator" title="BMI Calculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalilbnd&repo=bmi-calculator&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/khalilbnd/3-Column-preview-card" title="3-Column-preview-card"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalilbnd&repo=3-Column-preview-card&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/khalil227/devfinder" title="devfinder"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalil227&repo=devfinder&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/khalil227/StudentCard" title="StudentCard"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalil227&repo=StudentCard&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/khalilbnd/devfinder" title="devfinder"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalilbnd&repo=devfinder&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/khalilbnd/StudentCard" title="StudentCard"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalilbnd&repo=StudentCard&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/khalil227/Valorant_Agent_Create" title="Valorant_Agent_Create"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalil227&repo=Valorant_Agent_Create&theme=react&border_color=61dafb&border_radius=10"></a>
-<a align="right" href="https://github.com/khalil227/metly-app" title="Metly APP"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalil227&repo=metly-app&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/khalilbnd/Valorant_Agent_Create" title="Valorant_Agent_Create"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalilbnd&repo=Valorant_Agent_Create&theme=react&border_color=61dafb&border_radius=10"></a>
+<a align="right" href="https://github.com/khalilbnd/metly-app" title="Metly APP"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=khalilbnd&repo=metly-app&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/khalil227?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/khalilbnd?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 <!--
